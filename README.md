@@ -1,5 +1,7 @@
 # **Global_B2B_Sales_Pipeline_-_Deals_Analytics**
 
+<img width="774" height="1323" alt="B2B_SalesPipeline" src="https://github.com/user-attachments/assets/39d5331b-9cca-4560-adf2-8e12048325b8" />
+
 ## **1. Overview**
 
 This project presents an end-to-end analysis of a global B2B SaaS and Professional Services sales pipeline. The dataset includes detailed information on deals, client companies, sales activities, pipeline stages, and sales representatives across multiple regions and industries.
@@ -34,6 +36,7 @@ The analysis addresses the following key business questions:
 9. What is the current forecast accuracy based on pipeline stage probabilities?
 10. Which specific products or services drive the highest win rates?
 
+<img width="778" height="440" alt="B2b_Sales_Page_2" src="https://github.com/user-attachments/assets/8fc6ce09-2738-48cc-95bc-65b0c23f62be" />
 
 ## **4. Tools and Methodology**
 
@@ -45,6 +48,8 @@ The analysis addresses the following key business questions:
 ### **Methodology**
 
 * Built a **star schema data model** connecting fact and dimension tables
+ <img width="722" height="463" alt="B2B_Sales_Model" src="https://github.com/user-attachments/assets/36153fdf-eba2-43bf-a070-eb4811781f30" />
+
 * Created key metrics such as:
 
   * Pipeline Value
@@ -60,6 +65,7 @@ The analysis addresses the following key business questions:
   * Activity-based risk classification
   * Segmentation by company size, region, and product category
 
+<img width="778" height="444" alt="B2B_Sales_Page_1" src="https://github.com/user-attachments/assets/9e45907c-4a09-4158-b834-63d0dbc10c60" />
 
 ## **5. Key Insights**
 
@@ -98,6 +104,8 @@ Forecast accuracy stands at **136.28%**, indicating that actual revenue consiste
 ### **9. Product Performance**
 
 Certain product categories consistently achieve higher win rates, demonstrating stronger market alignment and revenue potential.
+
+<img width="774" height="444" alt="B2B_Sales_Page_3" src="https://github.com/user-attachments/assets/ca71d451-375a-4f1e-b840-e6029fc325bd" />
 
 
 ## **6. Recommendations**
@@ -142,6 +150,3 @@ Certain product categories consistently achieve higher win rates, demonstrating 
 * Prioritize products with high win rates
 * Reassess positioning and pricing for underperforming offerings
 
-## **Conclusion**
-
-This analysis provides a comprehensive view of sales pipeline performance, uncovering critical insights into deal progression, engagement effectiveness, and forecasting reliability. By leveraging these insights, the organization can transition from reactive reporting to proactive, data-driven decision-making, ultimately improving revenue outcomes and operational efficiency.
